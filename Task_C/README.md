@@ -7,3 +7,5 @@ Topics to improve:<br />
     [is a flexible schema, keys are stored in strings and values, but the data could be parsed from a specific structure or model]<br />
 7 - Cache can expire<br />
     [partially covered, the expiration functionality is rusty and needs to be more flexible and robust]<br />
+    
+There wasn't a relevant improve in the code.
